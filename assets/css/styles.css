@@ -21,12 +21,29 @@ header{
 
 }
 
-.navbar{
-    
+#navbar{
+    font-size: 130%;
+    letter-spacing: 2px;
 }
 h1,h2{
     font-family: 'Roboto Slab', serif, sans-serif;
     color: #cfd4d4;
     letter-spacing: 2px;
    
+}
+#navbar li{
+    float: left;
+    list-style-type: none;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#navbar a{
+    color: #cfd4d4;
+    text-decoration: none;
+}
+#menu a:hover{
+    border-bottom: 2px solid #131619; 
+}
+.active{
+    border-bottom: 2px solid #131619;
 }

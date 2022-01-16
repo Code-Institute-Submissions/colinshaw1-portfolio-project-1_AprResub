@@ -1,9 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto+Slab:wght@300&display=swap");
 /* sets a margin, padding and border for all of the page removing the default one */
 *{
     margin: 0;
     padding: 0;
     border: none;
 }
+body{
+    font-family: 'Merriweather', serif, sans-serif;
+    font-weight: 250;
+    color: #3a3a3a;
+}
+/* Navbar styling */
 header{
     background-color: #b3bac7;
+}
+#main-logo{
+   float: right;
+   margin-right: 40px;
+   font-size: 300%;
+
+}
+
+.navbar{
+    
+}
+h1,h2{
+    font-family: 'Roboto Slab', serif, sans-serif;
+    color: #cfd4d4;
+    letter-spacing: 2px;
+   
 }

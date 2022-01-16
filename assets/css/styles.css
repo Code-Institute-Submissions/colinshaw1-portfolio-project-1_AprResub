@@ -11,9 +11,7 @@ body{
     color: #3a3a3a;
 }
 /* Navbar styling */
-header{
-    background-color: #b3bac7;
-}
+
 #main-logo{
    float: right;
    margin-right: 40px;
@@ -24,10 +22,11 @@ header{
 #navbar{
     font-size: 130%;
     letter-spacing: 2px;
+    
 }
 h1,h2{
     font-family: 'Roboto Slab', serif, sans-serif;
-    color: #cfd4d4;
+    color: #b3bac7;
     letter-spacing: 2px;
    
 }
@@ -36,14 +35,32 @@ h1,h2{
     list-style-type: none;
     margin-left: 20px;
     margin-top: 20px;
+    
 }
 #navbar a{
     color: #cfd4d4;
     text-decoration: none;
 }
 #menu a:hover{
-    border-bottom: 2px solid #131619; 
+    border-bottom: 1px solid #131619; 
 }
 .active{
     border-bottom: 2px solid #131619;
 }
+
+/* Hero image and cover text */
+#image-outer{
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+#breath-video {
+    height: 700px;
+    width: 100%;
+    background: url("../images/joshua-earle-9idqIGrLuTE-unsplash.jpg") no-repeat center center;
+}
+ 
+/* Main body section */
+
+/* Footer */

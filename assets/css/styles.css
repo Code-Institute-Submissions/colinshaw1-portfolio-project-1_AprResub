@@ -1,0 +1,9 @@
+/* sets a margin, padding and border for all of the page removing the default one */
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+header{
+    background-color: #b3bac7;
+}

@@ -1,73 +1,101 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto+Slab:wght@300&display=swap");
+
 /* sets a margin, padding and border for all of the page removing the default one */
-*{
+* {
     margin: 0;
     padding: 0;
     border: none;
 }
-body{
+
+body {
     font-family: 'Merriweather', serif, sans-serif;
-    font-weight: 250;
-    color: #3a3a3a;
+    font-weight: 250%;
+    background-color: #b3bac7;
 }
+
 /* Navbar styling */
 header {
-    color: #b3bac7;
+    height: 80px;
+    width: auto;
+    
 }
-#main-logo{
-   float: right;
-   margin-right: 40px;
-   font-size: 300%;
+
+#main-logo {
+    float: right;
+    margin-right: 40px;
+    font-size: 300%;
 
 }
 
-.navbar{
+.navbar {
     font-size: 130%;
     letter-spacing: 2px;
-   
+
 }
-h1,h2{
+
+h1,h2 {
     font-family: 'Roboto Slab', serif, sans-serif;
-    color: #b3bac7;
+    color: #131619;
     letter-spacing: 2px;
-   
+
 }
-.navbar li{
+
+.navbar li {
     float: left;
     list-style-type: none;
     margin-left: 20px;
     margin-top: 20px;
-    
+
 }
-.navbar a{
-    color: #cfd4d4;
+
+.navbar a {
+    color: #131619;
     text-decoration: none;
 }
-.navbar a:hover{
-    border-bottom: 1px solid #131619; 
+
+.navbar a:hover {
+    border-bottom: 1px solid #131619;
 }
-.active{
+
+.active {
     border-bottom: 2px solid #131619;
 }
 
 /* Hero image and cover text */
-#image-outer{
+#image-outer {
     height: 700px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
+
 #breath-image {
     height: 700px;
     width: 100%;
     background: url("../images/joshua-earle-9idqIGrLuTE-unsplash.jpg") no-repeat center center;
 }
- 
+
 /* Main body section */
 
 /* Footer */
-footer{
-    width: 100%;
-    height: 200px;
-    background-color: grey;
+footer {
+    width: auto;
+    height: 120px;
+    
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media i {
+    font-size: 200%;
+    padding: 2%;
+    margin: 2%;
+    color: #131619;
+
+}
+
+.social-media>li {
+    display: inline;
 }

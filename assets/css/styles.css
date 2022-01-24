@@ -142,3 +142,11 @@ button:hover{
     background-color: #fff;
     color: #131619;
 }
+textarea {
+    width: 50%;
+    height: 200px;
+    padding: 10px;
+    margin: 5px 0 18px 0;
+    display: block;
+    background-color: #fff;
+}

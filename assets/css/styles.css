@@ -122,10 +122,12 @@ input[type=text] {
     margin: 5px 0 18px 0;
     display: block;
     background-color: #fff;
+    margin-left: 40px;
 }
 .contact-form {
     padding: 10px;
     position: relative;
+    margin-left: 40px;
 }
 button {
     background-color: #131619;
@@ -136,11 +138,13 @@ button {
     cursor: pointer;
     width: 15%;
     opacity: 0.9;
+    margin-left: 40px;
   }
 button:hover{
     opacity: 1;
     background-color: #fff;
     color: #131619;
+    margin-left: 40px;
 }
 textarea {
     width: 50%;
@@ -149,4 +153,5 @@ textarea {
     margin: 5px 0 18px 0;
     display: block;
     background-color: #fff;
+    margin-left: 40px;
 }

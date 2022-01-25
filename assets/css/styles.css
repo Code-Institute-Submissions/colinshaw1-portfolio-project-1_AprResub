@@ -91,6 +91,34 @@ h1,h2 {
 }
 
 /* Main body section */
+h1{
+    text-align: center;
+}
+#main-body{
+    height: 600px;
+}
+.wim-about{
+    padding-top: 20px;
+    width: 80%;
+    float: left;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.james-about{
+    padding-top: 20px;
+    padding-right: 20px;
+    width: 80%;
+    float: right;
+    text-align: left;
+    padding-bottom: 50px;
+}
+.jay-about{
+    padding-top: 20px;
+    width: 80%;
+    float: left;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
 
 /* Footer */
 footer {

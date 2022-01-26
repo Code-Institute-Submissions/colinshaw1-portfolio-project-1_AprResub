@@ -203,6 +203,9 @@ footer {
 }
 
 /* Contatc page*/
+label {
+    margin-left: 40px;
+}
 input[type=text] {
     width: 50%;
     padding: 10px;
@@ -210,12 +213,14 @@ input[type=text] {
     display: block;
     background-color: #fff;
     margin-left: 40px;
+
 }
 
 .contact-form {
     padding: 10px;
     position: relative;
     margin-left: 40px;
+
 }
 
 button {
@@ -228,6 +233,7 @@ button {
     width: 15%;
     opacity: 0.9;
     margin-left: 40px;
+  
 }
 
 button:hover {
@@ -245,6 +251,7 @@ textarea {
     display: block;
     background-color: #fff;
     margin-left: 40px;
+   
 }
 /* contact page image*/
 #content-outer {

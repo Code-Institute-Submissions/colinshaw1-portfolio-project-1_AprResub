@@ -227,3 +227,29 @@ textarea {
     background-color: #fff;
     margin-left: 40px;
 }
+/* meditate page*/
+#meditate-page-outer {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#meditate-image {
+    height: 700px;
+    width: 100%;
+    background: url("../images/calm.jpg") no-repeat center center;
+    /*Add the level of zoom when loading the image */
+   animation-name: meditate-page-outer;
+   animation-duration: 7s;
+   animation-fill-mode: forwards;
+}
+ /* adding animation for zoom affect for website*/
+ @keyframes meditate-page-outer {
+    from   {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}

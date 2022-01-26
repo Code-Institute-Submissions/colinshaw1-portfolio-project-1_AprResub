@@ -406,12 +406,13 @@ to {
 /* For screens larger screen sizes form 1200px wide and down*/
 @media screen and (max-width:1200px) {
     #main-body{
-        width: 65%;
-        height: 1300px;
-        margin: 0 auto;
-        margin-bottom: 10px;
+        width: 80%;
+        height: 1500px;
+        padding: 0;
     }
-   
+   footer{
+       margin-top: 10px;
+   }
 } 
 /* For screens medium screen sizes form 950px wide and down*/
 @media screen and (max-width:950px) {
@@ -448,25 +449,6 @@ to {
     hr{
         display: none;
     }
-    .wim-about i {
-        font-size: 150%;
-        padding: 0.5%;
-        margin: 0.5%;
-        color: #131619;
-    }
-    
-    .james-about i {
-        font-size: 150%;
-        padding: 0.5%;
-        margin: 0.5%;
-        color: #131619;
-    }
-    
-    .jay-about i {
-        font-size: 150%;
-        padding: 0.5%;
-        margin: 0.5%;
-        color: #131619;
-    }
+  
     
 } 

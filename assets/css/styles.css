@@ -401,3 +401,16 @@ to {
     margin: 0.5%;
     color: #131619;
 }
+/* Media Queries*/
+
+/* For screens larger screen sixes form 1200px wide and down*/
+@media screen and (max-width:1200px) {
+    #main-body{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    hr{
+        display: none;
+    }
+}

@@ -36,10 +36,24 @@ User Experince 5 Planes
 
 Strategy Plane
 
+Breath was designed to help educate people and make them more mindful around meditation. To give them the tools to help deal with stress, anexity and lack of sleep. The page layouts are clear and percise and the inforamtion is layed out accordingly. 
+
+The main action for the webiste is to help people find a suitbale technique for mediation or excerise that will fit into there daily life.
 
 Scope Plane
 
+Features included:
+
+•	Created in HTML and CSS
+
+•	1 contact form for the contact page
+
+•	10 cliackable web links used within website
+
+
 Structure Plane
+
+The website consitis of three pages each with its on purpise. Pages are structred so the user can naviagte easily to there destination. 
 
 Skeleton Plane
 

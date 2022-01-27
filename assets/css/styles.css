@@ -192,19 +192,20 @@ hr {
 /* Footer */
 footer {
     width: auto;
-    height: 150px;
+    height: 200px;
     margin: 0 auto;
     margin-top: auto;
 }
 
 .social-media {
     text-align: center;
+    margin: auto;
 }
 
 .social-media i {
     font-size: 200%;
-    padding: 2%;
-    margin: 2%;
+    /* padding: 2%; */
+    /* margin: 0.5%; */
     color: #131619;
 
 }

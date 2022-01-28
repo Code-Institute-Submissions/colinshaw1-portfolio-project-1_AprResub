@@ -4,6 +4,7 @@ For my milestone project 1 for Code Institute Diploma in Software Development, I
 
 Please click on the link to visit breath click here <https://colinshaw1.github.io/portfolio-project-1/.>
 
+![mockup](https://user-images.githubusercontent.com/56481190/151623053-4c2ed9cc-3df4-447d-9879-b77eefd6cd39.png)
 
 
 Who is this website intended for?

@@ -13,22 +13,28 @@
 </head>
 
 <body>
+    <!--Header to place navbar in-->
     <header>
         <nav>
+            <!--unordered list for nav bar items and links-->
             <ul class="navbar">
                 <li>
+                    <!--href to link index page to the home button in navbar-->
                     <a href="index.html">
                         Home
                     </a>
 
                 </li>
                 <li>
+                    <!--href to link meditate page to the meditate button in navbar-->
                     <a href="meditate.html">
                         Meditate
                     </a>
                 </li>
                 <li>
-                    <a href="contact.html" class="active">
+                    <!--href to link contact page to the contact button in navbar
+                    set a class of active to link in css for active page to be unrderlined-->
+                    <a href="contact.html"  class="active">
                         Contact
                     </a>
 
@@ -36,53 +42,76 @@
 
             </ul>
         </nav>
+        <!--href to link home page to breath logo-->
         <a href="index.html">
+            <!--defining logo id within h1-->
             <h1 id="main-logo">Breath</h1>
         </a>
     </header>
+    <!--declaring main image section in the contact page-->
     <section id="content-outer">
+        <!--setting div for postion and an id to style the image in css-->
         <div id="content-image">
 
         </div>
     </section>
+    <!--setting to for contact form container-->
     <div class="contact-form">
-
+        <!--opening form -->
         <form>
-
+            <!--setting label for first name-->
             <label for="first-name">First Name:</label>
+            <!--setting input field for text to be entered in first name section
+            and a placeholder while nothing has been typed-->
             <input type="text" id="first-name" name="firstname" placeholder="Please enter your first name..">
-
+            
+            <!--setting label for last name-->
             <label for="last-name">Last Name:</label>
+            <!--setting input field for text to be entered in last name section
+            and a placeholder while nothing has been typed-->
             <input type="text" id="last-name" name="lastname" placeholder="Please enter your last name..">
-
+            
+            <!--setting label for email address-->
             <label for="email">Email Address:</label>
+            <!--setting input field for text to be entered in email address section
+            and a placeholder while nothing has been typed-->
             <input type="text" id="email" name="email" placeholder="Please enter your email address ...">
 
         </form>
-        <div >
+        <!--div for text area-->
+        <div>
+            <!--setting textarea id and style and a placeholder while nothing has been entered-->
             <textarea id="subject" name="subject" placeholder="Tell us about your journey.."
                 style="height:200px"></textarea>
         </div>
+        <!--div to set class for submit button-->
         <div class="button">
+            <!--setting button type-->
             <button type="submit" value="Submit">Submit</button>
         </div>
     </div>
+
+    <!--footer section-->
     <footer>
+        <!--unordered list for social media links in footer-->
         <ul class="social-media">
             <li>
+                <!--setting href link for youtube and youtube square icon from font awesome clickable link-->
                 <a href="https://youtube.com/" target="_blank" rel="noopener"
                     aria-label="Vist our YouTube channel to learn more on breath work"><i
                         class="fab fa-youtube-square"></i></a>
+                <!--setting href link for instagram and instagram square icon from font awesome clickable link-->
                 <a href="https://instagram.com/" target="_blank" rel="noopener"
                     aria-label="Vist our Instagram page to learn more on breath work"><i
                         class="fab fa-instagram-square"></i></a>
-                <a href="https://twitter.com/" target="_blank" rel="noopener"
+                <!--setting href link for twitter and twitter square icon from awesome clickable link-->
+                <a href="https://twitter.com" target="_blank" rel="noopener"
                     aria-label="Vist our Twiter page to learn more on breath work"><i
                         class="fab fa-twitter-square"></i></a>
             </li>
         </ul>
     </footer>
-
+    <!--code to declare font awesome icons work on page-->
     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 </body>
 

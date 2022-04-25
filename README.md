@@ -8,6 +8,32 @@ Please click on the link to visit breath click here <https://colinshaw1.github.i
 
 ![mockup](https://user-images.githubusercontent.com/56481190/151623053-4c2ed9cc-3df4-447d-9879-b77eefd6cd39.png)
 
+Screenshots
+--
+
+Home page nav bar and main image
+
+![image](https://user-images.githubusercontent.com/56481190/165051880-2ac21dfd-f5d5-496d-ac0e-8a158bb54931.png)
+
+Home page Footer
+
+![image](https://user-images.githubusercontent.com/56481190/165052204-84b73caf-bb18-456a-8afd-66b1b357344f.png)
+
+Meditate page as active page and main image
+
+![image](https://user-images.githubusercontent.com/56481190/165052509-8fa9d54e-78ca-493d-b0c1-51fd729c86ca.png)
+
+Meditate main body and footer
+
+![image](https://user-images.githubusercontent.com/56481190/165052784-b86a2464-63bc-419b-a09e-0112d1415aed.png)
+
+Contact page as active page and main image
+
+![image](https://user-images.githubusercontent.com/56481190/165052979-76a5d9cd-d87a-400b-83e0-d7f745a86e8e.png)
+
+Contact form and footer
+
+![image](https://user-images.githubusercontent.com/56481190/165053153-cadd3a42-0260-437f-bc01-314276b5956c.png)
 
 Who is this website intended for?
 --
